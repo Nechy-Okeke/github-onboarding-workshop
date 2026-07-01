@@ -1,61 +1,64 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+# My Notes — Tomilola Osukoya
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+## Key Concepts Learned
+The key concepts covered include:
 
----
-
-## Key Concepts I Learned
-
-<!-- Write the main ideas covered in today's session -->
-
--
--
--
+* An overview of how Artificial Intelligence (AI) is transforming cloud security.
+* An orientation to the bootcamp, including the training structure, schedule, mentors, and their learning sessions.
+* The role of GitHub as a collaborative platform in the bootcamp
+* Azure Portal and its significance throughout the bootcamp.
 
 ---
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+Focused on setting up GitHub and completing the onboarding activities required for participation in the bootcamp.
 
 ### What I did
 
+* Created a GitHub account.
+* Completed the required profile information.
+* Accessed the bootcamp GitHub repository.
+* Forked the repository to create a personal copy.
+* Navigated to the Pre-Bootcamp onboarding section.
+* Downloaded and renamed the assignment template.
+* Uploaded the renamed template to the repository.
+* Edited and updated the assignment with the required information.
+* Committed the changes and submitted the completed assignment.
 
-### What happened / Result
+### What Happened/ Results
 
+* The assignment template was successfully updated with the required information.
+* The completed assignment was committed and submitted through GitHub.
 
 ### Challenges I faced
 
-
----
+* No significant challenges were encountered during the exercise.
 
 ## My Takeaways
-
-<!-- What was most valuable to you personally from this session? -->
-
+* An overview of how Artificial Intelligence (AI) is transforming cloud security.
+* An orientation to the bootcamp, including the training structure, schedule, mentors, and their learning sessions.
+* The role of GitHub as a collaborative platform in the bootcamp
+* Azure Portal and its significance throughout the bootcamp.
 
 ---
 
 ## Questions I Still Have
 
-<!-- Anything you want to follow up on or ask the mentor -->
-
--
--
+* None
 
 ---
 
 ## Resources I Found Useful
 
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
--
+* GitHub Documentation
+* Microsoft Learn
+* Azure Portal Documentation
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Tomilola Osukoya*.
+
+
+
+*Submitted by: Tomilola Osukoya · [Your GitHub Username]*
