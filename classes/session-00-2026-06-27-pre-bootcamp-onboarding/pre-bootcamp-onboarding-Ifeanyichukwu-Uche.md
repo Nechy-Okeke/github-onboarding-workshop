@@ -1,5 +1,4 @@
-# My Notes - Bridget Evavoawe
-
+# My Notes - Ifeanyichukwu Uche
 
 ---
 
@@ -7,10 +6,10 @@
 
 <!-- Write the main ideas covered in today's session -->
 
-- The class requirements
-- How to set up a github account
-- How to fork a repository on github
-- How to collaborate on github
+- The requirements for the bootcamp assignments.
+- How to create and set up a GitHub account.
+- How to fork a repository from GitHub.
+- The basics of collaborating on GitHub using repositories.
 
 ---
 
@@ -19,27 +18,28 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-- I downloaded the task template from the class repository to my local device.
-- I renamed the markdown file to include my name, following the assignment requirements.
-- I opened the file in VSCode and completed my task there.
-- I forked the repository so I could make changes independently and later submit my work to the class repository.
 
-
+- Downloaded the assignment template from the class repository.
+- Renamed the Markdown file to include my full name as required.
+- Opened the file in Visual Studio Code and completed the assignment.
+- Forked the class repository to my GitHub account so I could work on my own copy before submitting.
 
 ### What happened / Result
-- It was successful
+
+- I completed the exercise successfully and was able to finish the required steps.
 
 ### Challenges I faced
-- After saving the downloaded file, I created a folder to organize my tasks and moved the file into it. VSCode could no longer locate the file, since it was still pointing to the old path. To fix this, I deleted the file, then re-saved it directly from VSCode into the correct folder, which resolved the issue.
+
+- After moving the downloaded file into a different folder, VS Code could no longer locate it because the file path had changed. I resolved the issue by reopening the file from its new location, which allowed me to continue working without further problems.
 
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-- The most valuable part of today's session was understanding the actual workflow behind collaborating on GitHub — forking a repo, making changes locally, and contributing back — rather than just knowing the individual commands. It also helped me get more comfortable navigating between my local files and VSCode, which I know I'll rely on for the rest of this course.
 
+- The session helped me understand how the GitHub workflow operates, especially the process of forking a repository, making changes locally, and preparing work for submission. I also became more confident using VS Code to manage project files, which will be useful throughout the bootcamp.
 
 ---
 
-*Submitted by: Bridget Evavoawe · BridgetEvavoawe*
+*Submitted by: Ifeanyichukwu Uche*
