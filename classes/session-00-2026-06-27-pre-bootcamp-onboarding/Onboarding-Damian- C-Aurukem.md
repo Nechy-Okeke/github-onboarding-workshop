@@ -34,7 +34,7 @@ updated my onboarding md file via github
 Mission successful
 
 ### Challenges I faced
-was initially confused on what forking does but later understood that it was a copy of the main branch to allow me edit without editing the main brach of the class. 
+was initially confused on what forking does but later understood that it was a copy of the main branch allowing me edit without editing the main brach of the class. 
 
 ---pulling a repository
 
