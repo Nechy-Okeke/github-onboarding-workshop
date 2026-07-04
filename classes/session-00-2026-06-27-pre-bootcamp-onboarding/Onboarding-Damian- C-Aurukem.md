@@ -1,36 +1,40 @@
-# My Notes — [Oyindamola Olujide]
+# My Notes — [Damian Anurukem]
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
 
----
 
 ## Key Concepts I Learned
 
 <!-- Write the main ideas covered in today's session -->
 
--How to add a repository
--How to add works on Github
+-creating a github acoount
+-Creating a repository/collboration
+- understanding repository Forking
+- Undesrtood how to delete and add new repository
 -
 
 ---
 
 ## Lab / Hands-On Work
 
+created a github account
+i forked a repository
+updated my onboarding notes via github
+
+
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
+created a github account
+collaborated with class repository branch
+downloaded class file
+i forked a repository
+updated my onboarding md file via github
 
 ### What happened / Result
-
+Mission successful
 
 ### Challenges I faced
-
+was initially confused on what forking does but later understood that it was a copy of the main branch to allow me edit without editing the main brach of the class. 
 
 ---pulling a repository
 
@@ -58,4 +62,4 @@
 
 ---
 
-*Submitted by: [Oyindamola Olujide] · [Rikki4Code]*
+*Submitted by: [Damian Anurukem] · [DamianE-ops]*
