@@ -1,12 +1,17 @@
-\---
 
 ## Key Concepts I Learned
 
-*I learnt about Declarative Agents for Microsoft 365. It lets you create AI-powered assistants that are optimized for some specific scenarios
-*I also learnt about APIs and API Keys. API Keys They are the arbitrary strings that the owners use to grant anyone access to the API. It is best secured in a storage location in MS365 called 'Vault', which allows you to securely manage your API keys without public exposure. I also learnt how to call the API by including the API keys in the API requests
-* I also learnt that MS 365 Copilot supports passing API keys as Json Web Token, Query String Parameter and Custom Header
+* I learnt about Declarative Agents for Microsoft 365. It lets you create AI-powered assistants that are optimized for specific scenarios
+
+* I also learnt about APIs and API Keys. API Keys are arbitrary strings that owners use to grant anyone access to the API. It is best secured in a storage location in MS365 called 'Vault', which allows you to securely manage your API keys without public exposure.
+
+* I also learnt how to call the API by including the API keys in the API requests
+
+* I learnt that MS 365 Copilot supports passing API keys as Json Web Token, Query String Parameter, and Custom Header
+
 * I also learnt about another method of securing APIs called OAuth. It is the industry standard protocol for authorization. It secures access to resources using access Tokens
-I also learned about PKCE (Proof Key for Code Exchange); it is provided as an option to enable when configuring OAuth for your plugin. It adds an extra security layer to your app with minimal overhead.
+
+* I also learned about PKCE (Proof Key for Code Exchange); it is available as an option when configuring OAuth for your plugin. It adds an extra security layer to your app with minimal overhead.
 \---
 
 ## Lab / Hands-On Work
