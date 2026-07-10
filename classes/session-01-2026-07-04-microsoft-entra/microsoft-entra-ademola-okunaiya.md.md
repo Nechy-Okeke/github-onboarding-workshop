@@ -1,11 +1,4 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — ADEMOLA OKUNAIYA
 
 ---
 
@@ -13,37 +6,39 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
--
+- I learned about the concept of JIT (just in time)
+- I learned about Privileged Access management (PIM)
+- I also learned the dangers of granting permanent admin status
+- I learned about the different types of conditional access you can grant and their implications
+- I learned to identify whether an external API requires API Key or OAuth2 security before connecting it to Copilot.
+- I learned to implement user-level authentication (like Microsoft Entra ID) 
 
 ---
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
-
+We have not had our lab learning environment configured yet. 
 ### What I did
-
+Reviewed the class recording and the learning material from Microsoft Learn 
 
 ### What happened / Result
-
+Developed some familiarity with PIM and granting conditional access
 
 ### Challenges I faced
-
+Took some time to grasp the concepts
 
 ---
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
+The importance of conditional access
 
 
 ---
 
 ## Questions I Still Have
 
-<!-- Anything you want to follow up on or ask the mentor -->
+When will the labs be configured.
 
 -
 -
@@ -52,10 +47,10 @@
 
 ## Resources I Found Useful
 
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
+The Microsoft Learn link shared by the lead
 
 -
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Ademola Okunaiya · ddudboi*
