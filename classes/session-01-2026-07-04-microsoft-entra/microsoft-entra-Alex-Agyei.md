@@ -26,6 +26,12 @@ I worked on integrating a Microsoft 365 Copilot Declarative Agent with an API se
 * Explored how Microsoft 365 Copilot plugins securely connect to external APIs using API key authentication.
 * Attempted to validate and test the agent within the Microsoft 365 environment.
 
+<img width="787" height="418" alt="Screenshot 2026-07-10 093543" src="https://github.com/user-attachments/assets/d3457248-873b-4842-8bf1-f83f3e166daf" />
+
+<img width="1302" height="762" alt="Screenshot 2026-07-10 094109" src="https://github.com/user-attachments/assets/27110813-a7e9-4d53-ac5b-9c7830417876" />
+
+
+
 ### What happened / Result
 
 * Installed the Microsoft 365 Agents Toolkit extension in Visual Studio Code.
@@ -35,6 +41,9 @@ I worked on integrating a Microsoft 365 Copilot Declarative Agent with an API se
 ### Challenges I faced
 
 I was unable to complete the deployment and testing phase because my Microsoft 365 account did not have the required Microsoft 365 subscription and Copilot access. As shown in the development environment, Copilot access was disabled, preventing the upload and testing of the custom agent.
+
+<img width="1418" height="520" alt="Screenshot 2026-07-11 065932" src="https://github.com/user-attachments/assets/04806a90-896b-4dc9-ac9a-6500bae8f3db" />
+
 
 ---
 
