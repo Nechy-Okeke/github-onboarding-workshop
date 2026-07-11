@@ -33,18 +33,21 @@
 ---
 
 ### What I did
-- I Summarrized the whole concept: Authenticate your API plugin for declarative agents with secured APIs
+- **Created an API Plugin**: Set up the plugin definition that allows Microsoft 365 Copilot to communicate with an external API in VS Code.
+- **Configuring Authentication:** Configure the plugin to use either an API key.
 
 ---
 
 ### What happened / Result
-- NIL
+- An API Plugin for Microsoft 365 Copilot was created.
 
 --- 
 
 ### Challenges I faced
 
 - I couldn't set up the resources needed to run the hands-on exercises (Integrate an API plugin with an API secured with a key / with OAuth).
+- I had issues installing the Microsoft 365 Agents Toolkit extension but I was later able to resolve it by uninstalling and installing a newly downloaded VS Code. 
+
 
 ---
 
