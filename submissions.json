@@ -34,6 +34,7 @@
       "pre-bootcamp-onboarding-Folaranmi-Abolade-Felix.md",
       "pre-bootcamp-onboarding-Gabriel Uchechukwu Gabriel.md",
       "pre-bootcamp-onboarding-George-Ukato.md",
+      "pre-bootcamp-onboarding-Ibrahim Bolaji-.md",
       "pre-bootcamp-onboarding-Idowu-Abdulganeey-Olawale.md",
       "pre-bootcamp-onboarding-Ifeanyichukwu-Uche.md",
       "pre-bootcamp-onboarding-Imaobong Uwah.md",
@@ -62,6 +63,7 @@
       "pre-bootcamp-onboarding-Taiwo_Durodola-Tunde.md",
       "pre-bootcamp-onboarding-Tomilola_Osukoya.md",
       "pre-bootcamp-onboarding-Uchechukwu-Azunna.md",
+      "pre-bootcamp-onboarding-ValentineMbachu.md",
       "pre-bootcamp-onboarding-Victor-Matthew-template.md",
       "pre-bootcamp-onboarding-Wallace Tudeme.md",
       "pre-bootcamp-onboarding-Yemisi Oyesainu.md",
@@ -103,6 +105,7 @@
       "microsoft-entra-Baba-Bata.md",
       "microsoft-entra-Bernard-Amoako.md",
       "microsoft-entra-Bridget-Evavoawe.md",
+      "microsoft-entra-Chinenye Joan Okoro.md",
       "microsoft-entra-David-Adama-template.md",
       "microsoft-entra-Ejike-Etolue.md",
       "microsoft-entra-Elu-Emmanuel.md",
@@ -124,6 +127,7 @@
       "microsoft-entra-Taiwo_Durodola-Tunde.md",
       "microsoft-entra-Tomilola_Osukoya.md",
       "microsoft-entra-Tomilola_Osukoya_2.md",
+      "microsoft-entra-Victor-Matthew-template.md",
       "microsoft-entra-ademola-okunaiya.md.md",
       "microsoft-entra-adeola-ajiboso.md",
       "microsoft-entra-bernanamulyowa.md",
@@ -147,7 +151,9 @@
     "title": "Azure Key Vault",
     "date": "11 Jul 2026",
     "status": "upcoming",
-    "submissions": []
+    "submissions": [
+      "azure-key-vault-promise-ibediogwu-ekele.md"
+    ]
   },
   {
     "num": "03",
